@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\build",
+    "\\build\\web",
+    "\\nbproject",
+    "\\src",
+    "\\src\\conf",
+    "\\src\\java",
+    "\\src\\java\\Controllers",
+    "\\src\\java\\DAO",
+    "\\src\\java\\RepoPattern"
+  ],
+  "PreviewInSolutionExplorer": false
+}
